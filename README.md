@@ -121,4 +121,4 @@ rv-sparse/
 ├── challenge.c   # sparse_multiply implementation + official test harness
 └── README.md
 ```
-***NOTE*** : Claude was used to help with the README.md and make the code more readable, like comments, slight optimizations.
+***NOTE*** : Claude was used to help with the README.md and make the code more readable, like comments, slight fixes.
